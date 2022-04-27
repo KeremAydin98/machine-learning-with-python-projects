@@ -1,5 +1,5 @@
 # machine-learning-with-python-projects
-Tasks from the Machine Learning with Python course in freeCodeCamp
+## Tasks from the Machine Learning with Python course in freeCodeCamp
 
 1. Rock paper scissors:
 
