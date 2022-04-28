@@ -1,7 +1,7 @@
 # machine-learning-with-python-projects
 ## Tasks from the Machine Learning with Python course in freeCodeCamp
 
-### 1. Rock paper scissors:
+### 1. Rock paper scissors with Q learning:
 
 For this challenge, I have created a program to play Rock, Paper, Scissors. A program that picks at random will usually win 33% of the time. To pass this challenge my program must play matches against four different bots with different strategies, winning at least 33% of the games in each match. I have beaten the bots by implementing a reinforcement learning algorithm which is called Q-learning.
 
@@ -9,7 +9,7 @@ For this challenge, I have created a program to play Rock, Paper, Scissors. A pr
 
 For this challenge, I have completed the code to classify images of dogs and cats. I have used Tensorflow 2.0 and Keras to create a convolutional neural network that correctly classifies images of cats and dogs at least 63% of the time. My validation accuracy was 68.10%. 
 
-### 3. Book Recommendation Engine using JNN:
+### 3. Book Recommendation Engine using KNN:
 
 In this challenge, I have created a book recommendation algorithm using K-Nearest Neighbors. The dataset I have used is called Book-Crossings dataset. This dataset contains 1.1 million ratings (scale of 1-10) of 270,000 books by 90,000 users.
 
